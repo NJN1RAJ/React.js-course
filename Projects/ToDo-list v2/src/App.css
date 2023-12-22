@@ -1,0 +1,23 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin:10px;
+  margin-bottom: 20px;
+  background-color: aliceblue;
+}
+
+input{
+  width: 100%;
+}
+
+.items-container{
+  text-align: left;
+}
+
+.nj-button{
+  width:80px;
+}
+
+.nj-row{
+  margin: 10px 10px;
+}

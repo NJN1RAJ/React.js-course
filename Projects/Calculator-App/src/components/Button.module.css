@@ -1,0 +1,11 @@
+.buttcont{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.butt{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
